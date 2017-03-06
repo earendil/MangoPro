@@ -7,6 +7,17 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
+
+.ico{
+    width:100px;
+
+    height:80px;
+
+    color:white;
+    text-decoration:none;
+    padding-left:20px;
+}
+
 p {
   font-size: 20px;
 }
